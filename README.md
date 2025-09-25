@@ -43,7 +43,7 @@
 ### 📄 View My Resume
 
 <p align="center">
-  <a href="https://github.com/thummakarthikeya/Resume/blob/main/Karthikeya-Resume.pdf" target="_blank">
+  <a href="https://github.com/thummakarthikeya/thummakarthikeya/blob/main/Resume.pdf" target="_blank">
     <img src="https://img.shields.io/badge/View_My_Resume-red?style=for-the-badge&logo=googledocs&logoColor=white" alt="Resume Badge" />
   </a>
 </p>
