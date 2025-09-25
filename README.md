@@ -23,4 +23,4 @@
 
 📫 Reach me:  
 - Email: thummakarthikeya11@gmail.com  
-- LinkedIn: [linkedin.com/in/karthikeya-thumma](https://linkedin.com/in/karthikeya-thumma)  
+- LinkedIn: [linkedin.com/in/karthikeya-thumma](https://www.linkedin.com/in/karthikeya-thumma-3b76b127b/)  
