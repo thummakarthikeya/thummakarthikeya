@@ -26,8 +26,8 @@
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Karthikeya-Thumma&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Karthikeya's GitHub stats" width="410" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Karthikeya-Thumma&layout=compact&theme=tokyonight&hide_border=true&card_width=320" alt="Top Langs" width="330" />
+  <img src="https://github-readme-stats.vercel.app/api?username=thummakarthikeya&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Karthikeya's GitHub stats" width="410" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thummakarthikeya&layout=compact&theme=tokyonight&hide_border=true&card_width=320" alt="Top Langs" width="330" />
 </p>
 
 ---
@@ -35,7 +35,7 @@
 ### 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Karthikeya-Thumma/Karthikeya-Thumma/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/thummakarthikeya/thummakarthikeya/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </p>
 
 ---
@@ -43,7 +43,7 @@
 ### 📄 View My Resume
 
 <p align="center">
-  <a href="YOUR_RESUME_LINK" target="_blank">
+  <a href="https://github.com/thummakarthikeya/Resume/blob/main/Karthikeya-Resume.pdf" target="_blank">
     <img src="https://img.shields.io/badge/View_My_Resume-red?style=for-the-badge&logo=googledocs&logoColor=white" alt="Resume Badge" />
   </a>
 </p>
