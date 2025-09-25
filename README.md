@@ -91,7 +91,7 @@
   </div>
   
   <div align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=thummakarthikeya&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+    <img src="https://streak-stats.demolab.com/?user=thummakarthikeya&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
   </div>
   
   ---
@@ -99,7 +99,7 @@
   ### 🐍 Contribution Snake
   
   <p align="center">
-    <img src="https://raw.githubusercontent.com/thummakarthikeya/thummakarthikeya/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+    <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" alt="Snake animation" />
   </p>
   
   ---
