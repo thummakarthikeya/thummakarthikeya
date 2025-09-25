@@ -19,7 +19,7 @@
 
 ![Snake animation](https://github.com/thummakarthikeya/thummakarthikeya/blob/output/github-contribution-grid-snake.svg)
 
-📄 [View My Resume](https://github.com/thummakarthikeya/Resume/blob/main/Karthikeya-Resume.pdf)
+📄 [View My Resume](https://github.com/thummakarthikeya/thummakarthikeya/blob/main/Resume.pdf)
 
 📫 Reach me:  
 - Email: thummakarthikeya11@gmail.com  
