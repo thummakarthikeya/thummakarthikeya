@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="assets/coding.gif" alt="Hi, I'm Karthikeya" width="400" />
+  <img src="./assets/Coding.gif" alt="Hi, I'm Karthikeya" width="400" />
 </div>
 
 <h1 align="center">Hi there, I'm Karthikeya Thumma 👋</h1>
