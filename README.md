@@ -108,7 +108,7 @@
   
   <p align="center">
     <a href="https://github.com/thummakarthikeya/thummakarthikeya/blob/main/Resume.pdf" target="_blank">
-      <img src="./assets/Karthikeya-resume;;.pdf" alt="Resume Badge" />
+      <img src="https://img.shields.io/badge/View_My_Resume-red?style=for-the-badge&logo=googledocs&logoColor=white" alt="Resume Badge" />
     </a>
   </p>
   
