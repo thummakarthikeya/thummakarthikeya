@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://media.giphy.com/media/M9gC8Fp1c6c0r3e8U5/giphy.gif" alt="Hi, I'm Karthikeya" width="400" />
+  <img src="assets/coding.gif" alt="Hi, I'm Karthikeya" width="400" />
 </div>
 
 <h1 align="center">Hi there, I'm Karthikeya Thumma 👋</h1>
