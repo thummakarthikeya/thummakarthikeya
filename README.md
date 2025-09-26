@@ -107,7 +107,7 @@
   ### 📄 View My Resume
   
   <p align="center">
-    <a href="https://github.com/thummakarthikeya/thummakarthikeya/blob/main/Resume.pdf" target="_blank">
+    <a href="./assets/Karthikeya-resume;;.pdf" target="_blank">
       <img src="https://img.shields.io/badge/View_My_Resume-red?style=for-the-badge&logo=googledocs&logoColor=white" alt="Resume Badge" />
     </a>
   </p>
@@ -125,7 +125,7 @@
       <img src="https://img.shields.io/badge/Email-thummakarthikeya11@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge" />
     </a>
     <a href="https://linkedin.com/in/karthikeya-thumma" target="_blank">
-      <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" />
+      <img src="https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile" alt="LinkedIn Badge" />
     </a>
     <a href="https://github.com/thummakarthikeya" target="_blank">
       <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge" />
