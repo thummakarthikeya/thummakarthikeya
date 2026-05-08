@@ -124,7 +124,7 @@
     <a href="mailto:thummakarthikeya11@gmail.com">
       <img src="https://img.shields.io/badge/Email-thummakarthikeya11@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge" />
     </a>
-    <a href="https://linkedin.com/in/karthikeya-thumma" target="_blank">
+    <a href="https://www.linkedin.com/in/karthikeya-thumma-3b76b127b/" target="_blank">
       <img src="https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile" alt="LinkedIn Badge" />
     </a>
     <a href="https://github.com/thummakarthikeya" target="_blank">
